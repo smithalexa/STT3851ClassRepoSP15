@@ -10,7 +10,11 @@ output: html_document
  
 * Work on the **Regression assignment** page 110 PDS
 * **Regression assignment** see page110 PDS due NLT 5 PM April 24.  Submit assignment
+<<<<<<< HEAD
 via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the Research Plan Assignment is ()
+=======
+via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the Research Plan Assignment is (https://www.crowdgrader.org/crowdgrader/venues/view_venue/1014)
+>>>>>>> e0d71eaf657351ebd2d208e31c4f9f62b48efa3e
 
 **Regression assignment** 
 
